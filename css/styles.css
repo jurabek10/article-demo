@@ -110,6 +110,7 @@ img {
     width: 700px;
 }
 
+/* SITE-HEADER */
 .article-header {
     padding-top: 54px;
     margin: 0;
@@ -131,6 +132,8 @@ img {
 .main-event {
     padding-top: 24px;
 }
+
+/* TOP-VIDEOS */
 
 .top-videos {
     display: flex;
